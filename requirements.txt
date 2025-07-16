@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+tensorflow
+scikit-learn
+ta
+textblob
+beautifulsoup4
+requests
